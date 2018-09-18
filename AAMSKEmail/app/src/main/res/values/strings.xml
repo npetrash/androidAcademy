@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AAMSK Email</string>
+    <string name="button_confirm_text">Preview</string>
+    <string name="send_email">SEND EMAIL</string>
+    <string name="subject_text">Shoutout, Android Academy MSK!</string>
+    <string name="body_text">We love Android!</string>
+</resources>
