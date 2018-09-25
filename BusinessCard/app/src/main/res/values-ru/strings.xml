@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Никита Петраш</string>
+    <string name="database_developer">Разработчик баз данных в Citilink</string>
+    <string name="good_english">Неплохой английский</string>
+    <string name="android_beginner">На андроиде лох</string>
+    <string name="description_text">Разработчик Никита с 2016 года. Сейчас уверенный middle-бдшник в Citilink\'е. Все в целом круто, но тяга знаниям покоя не дает.</string>
+    <string name="send_message">Отправить отзыв</string>
+    <string name="enter_a_message">Введите текст отзыва</string>
+    <string name="subject_text">Отзыв от пользователя.</string>
+</resources>

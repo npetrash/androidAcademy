@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nikita Petrash</string>
+    <string name="database_developer">Database Developer in Citilink</string>
+    <string name="good_english">Good English</string>
+    <string name="android_beginner">Beginner in Android</string>
+    <string name="description_text">Nikita is a developer since 2016. Now he is just middle database developer in Citilink.ru. It\'s pretty okay with it, but the desire for knowledge does not give rest.</string>
+    <string name="send_message">Send Feedback</string>
+    <string name="enter_a_message">Enter a message</string>
+    <string name="telegram_url" translatable="false">https://t.me/OrangeVenom</string>
+    <string name="instagram_url" translatable="false">https://www.instagram.com/_pna23/</string>
+    <string name="twitter_url" translatable="false">https://twitter.com/AuthenticVenom</string>
+    <string name="my_email" translatable="false">nskylineq@gmail.com</string>
+    <string name="subject_text">Feedback from user.</string>
+</resources>
