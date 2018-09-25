@@ -162,6 +162,7 @@
                 android:layout_marginBottom="@dimen/main_margin"
                 android:background="@android:color/background_light"
                 android:text="@string/send_message"
+                android:textAlignment="textEnd"
                 android:textColor="@android:color/holo_red_dark"
                 android:textSize="@dimen/text_size"
                 android:textStyle="bold"/>
@@ -169,8 +170,7 @@
             <TableRow
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginStart="@dimen/margin_50"
-                android:layout_marginEnd="@dimen/main_margin">
+                >
 
                 <LinearLayout
                     android:id="@+id/llSocial"
