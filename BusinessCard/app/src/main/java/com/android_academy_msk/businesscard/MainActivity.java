@@ -85,6 +85,7 @@ public class MainActivity extends AppCompatActivity {
                 break;
             default:
                 url = NO_URL;
+                break;
         }
         if (url != NO_URL) {
             Uri page = Uri.parse(url);
